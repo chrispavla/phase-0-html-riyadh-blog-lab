@@ -1,10 +1,10 @@
 HEADING
 
-`Welcome to Riyadh`
+Welcome to Riyadh
 
 SUB HEAD
 
-`Where A Traditional Past Meets A Modern Future.`
+Where A Traditional Past Meets A Modern Future.
 
 IMAGE 1 FILE
 
